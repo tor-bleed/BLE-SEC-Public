@@ -125,9 +125,5 @@ The SQLite database includes the following table:
 
 ---
 
-## License
 
-This project is licensed under a Non-Commercial Use License. You may use, modify, and distribute the software for **non-commercial purposes only**.
-
----
 
