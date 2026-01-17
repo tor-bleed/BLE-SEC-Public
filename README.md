@@ -4,6 +4,10 @@
 
 This project provides a **BLE device detection and logging system** designed to track and manage Bluetooth Low Energy (BLE) devices. It is particularly useful for applications like access control, crowd monitoring, and urban security. Our focus is on delivering a Python-based **data collector script** that logs BLE devices' entry and exit events into a database.
 
+<img width="804" height="365" alt="arquitectura" src="https://github.com/user-attachments/assets/b98d7725-2caf-4d66-94d9-5cbaf99dc6c5" />
+
+
+
 ---
 
 ## How It Works
@@ -39,6 +43,7 @@ Our **data collector script** runs on a computer or server and processes the dat
     
 - **Database Logging**: Stores details such as MAC Address, RSSI, timestamp, and action.
     
+<img width="945" height="249" alt="firmwareoutput" src="https://github.com/user-attachments/assets/3ca98b45-40b8-471f-a3cf-e7d99f61041f" />
 
 ---
 
@@ -122,6 +127,7 @@ The SQLite database includes the following table:
     
 - **Urban Security**: Detect unusual or suspicious movement in public spaces.
     
+<img width="898" height="602" alt="gui_blesec" src="https://github.com/user-attachments/assets/70fb02c2-36cd-430c-8509-fd15dfde9f8f" />
 
 ---
 
